@@ -68,11 +68,29 @@ As expected the 9th grade math and reading scores are Nan.
 
 ![This is an image](https://github.com/AleksKostrycka/School_District_Analysis/blob/main/Resources/Images%20used%20for%20Deliverable%203/D2%20Scores%20by%20School%20Spending%20after%20Corr.png?raw=true)
 
-The only changes are on the $585-629 range where the Average Reading and the % Overall Passing both dropped by 0.1% to respectively 84.3% and 62.8%.
-by school size, and by school type.
+The only change is on the $585-629 range where the % Passing Math decreased by 0.1% from 87.2 to 87.1. The Average Reading score went up .1% from 83.1 to 83.2
+
+#### The scores by school size
+
+<p align="center"> Scores completed in the original Module:</p>
+
+![This is an image](https://github.com/AleksKostrycka/School_District_Analysis/blob/main/Resources/Images%20used%20for%20Deliverable%203/D2%20Scores%20by%20School%20Size%20PRE%20Corr.png?raw=true)
+
+<p align="center">Scores redone after Thomas High School reading and math 9th grade scores were replaced with NaN. </p>
+
+![This is an image](https://github.com/AleksKostrycka/School_District_Analysis/blob/main/Resources/Images%20used%20for%20Deliverable%203/D2%20Scores%20by%20School%20Size%20after%20Corr.png?raw=true)
+
+No notable changes between the results
 
 
+#### The scores by school type
 
-* ![This is an image]()
-* ![This is an image]()
+<p align="center">There are no notable changes in the school type results </p>
 
+![This is an image](https://github.com/AleksKostrycka/School_District_Analysis/blob/main/Resources/Images%20used%20for%20Deliverable%203/D2%20Scores%20by%20School%20Type%20.png?raw=true)
+
+## Summary
+
+Replacing the math and reading scores did not imply any major change to the school district analysis.
+The scores by grade summary for Thomas High School was obviously changed and displays NaN values for its ninth-graders math and reading scores.
+The following metrics were slightly affected by the correction: the district summary, the school summary for Thomas High School, the scores by school spending - however the changes were very small and can be attributable to rounding while presenting the data to the board. 
