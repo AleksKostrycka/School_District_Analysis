@@ -39,7 +39,7 @@ The district summary was slightly affected by the correction made:
 The school summary was slightly affected by the correction made:
 * The average Reading Score increased by 0.1 point to 83.9.
 * The % Passing Math decreased by 0.1% to 93.2%.
-* The % Passing Math decreased by 0.3% to 97.0%.
+* The % Passing Reading decreased by 0.3% to 97.0%.
 * The % Overall Passing decreased by 0.3% to 90.6%.
 
 #### The top 5 and bottom 5 performing schools, based on the overall passing rate
