@@ -72,16 +72,9 @@ The only change is on the $585-629 range where the % Passing Math decreased by 0
 
 #### The scores by school size
 
-<p align="center"> Scores completed in the original Module:</p>
+<p align="center">There are no notable changes in the school size results </p>
 
 ![This is an image](https://github.com/AleksKostrycka/School_District_Analysis/blob/main/Resources/Images%20used%20for%20Deliverable%203/D2%20Scores%20by%20School%20Size%20PRE%20Corr.png?raw=true)
-
-<p align="center">Scores redone after Thomas High School reading and math 9th grade scores were replaced with NaN. </p>
-
-![This is an image](https://github.com/AleksKostrycka/School_District_Analysis/blob/main/Resources/Images%20used%20for%20Deliverable%203/D2%20Scores%20by%20School%20Size%20after%20Corr.png?raw=true)
-
-No notable changes between the results
-
 
 #### The scores by school type
 
